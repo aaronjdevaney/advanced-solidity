@@ -30,39 +30,39 @@ We deployed the contract to our local blockchain first to test it using the foll
 
 - Step one is to deploy the PupperCoinSale Deployer Contract:
 
-![step_1](screenshots/step_1.PNG)
+![step_1](screenshots/step_1.png)
 
 - Step two is to copy the token_sale_address and deploy the PupperCoinSale contract:
 
-![step_2](screenshots/step_2.PNG)
+![step_2](screenshots/step_2.png)
 
 - Step three is to copy the token_address and deploy the PupperCoin:
 
-![step_3](screenshots/step_3.PNG)
+![step_3](screenshots/step_3.png)
 
 - Step four is to buy tokens using other addresses:
 
-![step_4](screenshots/step_4.PNG)
+![step_4](screenshots/step_4.png)
 
 - Step five is to confirm that the time has run out and the contract is no longer open:
 
-![step_5](screenshots/step_5.PNG)
+![step_5](screenshots/step_5.png)
 
 - Step six is to finalize the contract:
 
-![step_6](screenshots/step_6.PNG)
+![step_6](screenshots/step_6.png)
 
 ## Deploy to Ropsten Testnet
 
 Using the deploy tab in Remix, we deployed the contract in the same manner as above except it was deployed to the Ropsten testnet. 
 
-![ropstem_deploy](screenshots/ropstem_deploy.PNG)
+![ropstem_deploy](screenshots/ropstem_deploy.png)
 
 The Gas Fee for the local blockchain appears to be higher than it is to deploy the contract to the testnet:
 
-![ropsten_gas](screenshots/ropstem_gas.PNG)
+![ropsten_gas](screenshots/ropstem_gas.png)
 
-![local_gas](screenshots/local_gas.PNG)
+![local_gas](screenshots/local_gas.png)
 
 The remaining steps are the same as above, except all the transactions are conducted on the testnet.
 
@@ -70,7 +70,7 @@ The remaining steps are the same as above, except all the transactions are condu
 
 The custom tokens can be added to your MyCrypto Wallet:
 
-![local_gas](screenshots/my_crypto.PNG)
+![local_gas](screenshots/my_crypto.png)
 
 
 
